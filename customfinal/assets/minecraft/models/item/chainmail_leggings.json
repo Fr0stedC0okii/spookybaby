@@ -1,0 +1,7 @@
+{
+    "parent": "item/template_leggings",
+    "textures": {
+        "armor1": "models/armor/chainmail_layer_1",
+        "armor2": "models/armor/chainmail_layer_2"
+    }
+}

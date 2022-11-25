@@ -1,0 +1,6 @@
+{
+    "parent": "item/template_helmet",
+    "textures": {
+        "armor1": "models/armor/chainmail_layer_1"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/template_helmet",
+    "textures": {
+        "armor1": "models/armor/gold_layer_1"
+    }
+}

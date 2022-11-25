@@ -1,0 +1,7 @@
+{
+    "parent": "item/template_boots",
+    "textures": {
+        "armor1": "models/armor/gold_layer_1",
+        "armor2": "models/armor/gold_layer_2"
+    }
+}

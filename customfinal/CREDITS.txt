@@ -1,0 +1,16 @@
+Most of the textures are downloaded from various free stock texture websites like "123rf.com", "textures.com", "polyhaven.com",  "3dtextures.me", "cc0textures.com", "poliigon.com", "artstation.com", or "substance source/share". I just crop/mix/modify them for minecraft texture formats.
+
+Some textures are procedurally/manually made by myself in substance painter.
+
+Some textures are baked from free models downloaded from sketchfab.com or modeled by myself.
+
+===================
+
+Custom animation made by FreshLX
+https://www.curseforge.com/minecraft/texture-packs/fresh-animations
+
+===================
+
+If you like the work I've done, could consider supporting me on my patreon: https://www.patreon.com/patrix
+
+Any amount would be greatly appreciated!
